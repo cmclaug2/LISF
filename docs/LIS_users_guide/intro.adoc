@@ -259,7 +259,7 @@ See http://ftp.emc.ncep.noaa.gov/jcsda/CRTM/
 +
   * LIS-CMEM3 {emdash} LIS' implementation of ECMWF's CMEM 3.0
 +
-See http://old.ecmwf.int/research/data_assimilation/land_surface/cmem/cmem_source.html for the original code.
+See https://confluence.ecmwf.int/display/LDAS/CMEM for more information.
 +
 . Includes parameter and uncertainty estimation support
   * Genetic algorithm (GA)
